@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi people 👋
 
 
 - 🔭 I’m currently working on Engagement detection in e-learning environment 
