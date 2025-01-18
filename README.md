@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on Engagement detection in e-learning environment 
-- 🌱 Egar to apply end-to-end models and ml models in detecting engagement in Rehabilitation 
+- 🌱 Eager to apply end-to-end machine learning models to real-world industry use cases, focusing on enhancing workflow performance and efficiency.
 - 💬 Tools: Python, C, C++, MATLAB, PyTorch, Tensorflow, SQL, Dejango 
 - 📫 How to reach me: safasadafj@gmail.com
